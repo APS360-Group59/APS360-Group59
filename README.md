@@ -10,6 +10,6 @@
 ---
 
 **Files description**
-- APS360\_Project\_DataProcessing.ipynb: this notebook contains the code used for the database load, spectrograms creation, data visualization and analysis, and data splitting.
-- /csv: this folder contains the csv files with the dataset splits, used for the model training, validation and testing.
+- `APS360\_Project\_DataProcessing.ipynb`: this notebook has the code used for the database load, spectrograms creation, data visualization and analysis, and data splitting.
+- `/csv`: this folder contains the csv files with the dataset splits, used for the model training, validation and testing.
 
