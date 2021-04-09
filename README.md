@@ -1,9 +1,14 @@
 # Group59 - Final Project<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1024px-Utoronto_coa.svg.png" width=60px align="right"> 
-###APS360 - Applied Fundamentals of Machine Learning
+### APS360 - Applied Fundamentals of Machine Learning
 
----
 **Members**
 - Javiera Bao
 - Kieran Kasha
 - Rishik Kumar
 - Abhay Verma
+
+---
+
+**Files description**
+- APS360\_Project\_DataProcessing.ipynb: this notebook contains the code used for the database load, spectrograms creation, data visualization and analysis, and data splitting.
+
