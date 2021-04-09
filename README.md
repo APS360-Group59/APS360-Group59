@@ -10,6 +10,7 @@
 ---
 
 **Files description**
-- `APS360_Project_DataProcessing.ipynb`: this notebook has the code used for the database load, spectrograms creation, data visualization and analysis, and data splitting.
+- `APS360_Project_Exploaration.ipynb`: this notebook is a record of data augmentation attempts and librosa library functionality
+- `APS360_Project_DataProcessing.ipynb`: this notebook has the code used for the loading the MedleyDB database, spectrogram creation, data visualization and analysis, and data splitting.
 - `/csv`: this folder contains the csv files with the dataset splits, used for the model training, validation and testing.
 
