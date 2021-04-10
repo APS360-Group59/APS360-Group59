@@ -10,6 +10,7 @@
 ---
 
 **Files description**
+- `Project Final Report - Part A.pdf`: this pdf file includes the report written analyzing the results of the developed model
 - `APS360_Project_Exploration.ipynb`: this notebook is a record of data augmentation attempts and librosa library functionality
 - `APS360_Project_DataProcessing.ipynb`: this notebook has the code used for the loading the MedleyDB database, spectrogram creation, data visualization and analysis, and data splitting.
 - `Primary_and_Baseline_Model.ipnyb`: this notebook contains the architecture of our primanry model, a CNN, and a baseline model, a simple ANN, along with their training loop and method to get pre-processed data from google drive
